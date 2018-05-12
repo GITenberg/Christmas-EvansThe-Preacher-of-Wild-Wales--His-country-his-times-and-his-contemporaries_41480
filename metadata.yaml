@@ -1,0 +1,35 @@
+_repo: Christmas-EvansThe-Preacher-of-Wild-Wales--His-country-his-times-and-his-contemporaries_41480
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Evans, Christmas
+    birthdate: 1766
+    deathdate: 1838
+    gutenberg_agent_id: '41675'
+    url: http://www.gutenberg.org/2009/agents/41675
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hood, Edwin Paxton
+    alias: Hood, Paxton
+    birthdate: 1820
+    deathdate: 1885
+    gutenberg_agent_id: '41193'
+    url: http://www.gutenberg.org/2009/agents/41193
+description: ''
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Evans, Christmas, 1766-1838'
+title: "Christmas Evans, the Preacher of Wild Wales\r\nHis country, his times, and\
+  \ his contemporaries"
+url: http://www.gutenberg.org/ebooks/41480
